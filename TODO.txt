@@ -1,0 +1,4 @@
+1.  Browse using the configured Koha subject headings as virtual folders
+2.  Date created, Date modified - could that be publication date?
+3.  Could this be done using OAI-PMH queries instead?
+4.  It would be nice to add COinS
